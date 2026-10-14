@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jurgo88)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **Jurgo88/Jurgo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
