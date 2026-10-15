@@ -1,18 +1,24 @@
+# Hi, I'm Jurgo 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jurgo88)](https://github.com/stats-organization/github-stats-extended)
+This is where I share projects, experiments, and what I'm learning along the way. Have a look around!
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jurgo88)](https://github.com/stats-organization/github-stats-extended)
-<!--
-**Jurgo88/Jurgo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub at a glance
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jurgo88" alt="Jurgo's GitHub statistics" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jurgo88" alt="Most-used languages in Jurgo's repositories" height="165">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jurgo88" alt="Jurgo's GitHub contribution streak">
+</p>
+
+## 🌱 Recent activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jurgo88&theme=github-compact" alt="Jurgo's GitHub contribution activity graph">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jurgo88&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
