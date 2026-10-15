@@ -1,11 +1,24 @@
 # Hi, I'm Jurgo 👋
 
-Welcome to my GitHub profile! Take a look around and explore my repositories.
+This is where I share projects, experiments, and what I'm learning along the way. Have a look around!
 
-## GitHub Stats
+## 📊 GitHub at a glance
 
-[![Jurgo's GitHub stats](https://github-stats-extended.vercel.app/api?username=jurgo88)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jurgo88" alt="Jurgo's GitHub statistics" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jurgo88" alt="Most-used languages in Jurgo's repositories" height="165">
+</p>
 
-## Top Languages
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jurgo88" alt="Jurgo's GitHub contribution streak">
+</p>
 
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jurgo88)](https://github.com/stats-organization/github-stats-extended)
+## 🌱 Recent activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jurgo88&theme=github-compact" alt="Jurgo's GitHub contribution activity graph">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jurgo88&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
