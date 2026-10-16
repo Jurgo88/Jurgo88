@@ -5,7 +5,7 @@ This is where I share projects, experiments, and what I'm learning along the way
 ## 📊 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jurgo88" alt="Jurgo's GitHub statistics" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=jurgo88" alt="Jurgo's GitHub statistics" height="auto">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jurgo88" alt="Most-used languages in Jurgo's repositories" height="165">
 </p>
 
