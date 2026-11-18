@@ -1,40 +1,38 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Hi%2C%20I'm%20Jurgo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20learner&descAlignY=60&descSize=18" alt="Hi, I'm Jurgo" width="100%">
+  <img src="assets/banner.svg" alt="Juraj Paluš – Freelance developer" width="100%">
 </p>
 
 <p align="center">
-  I build useful things, care about clean UI/UX, and share projects, experiments<br>
-  and lessons learned along the way.
+  Developer from Bratislava with 8+ years of experience.<br>
+  I build web apps and AI assistants, from the interface to the database.
 </p>
 
 <p align="center">
   <a href="https://github.com/Jurgo88"><img src="https://img.shields.io/badge/GitHub-Jurgo88-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Focus-Clean%20UI%20%26%20UX-8b5cf6?style=for-the-badge" alt="Focus: Clean UI and UX">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-22c55e?style=for-the-badge" alt="Open to collaborate">
+  <a href="https://www.linkedin.com/in/juraj-palus/"><img src="https://img.shields.io/badge/LinkedIn-Juraj%20Palu%C5%A1-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://jurgo.sk"><img src="https://img.shields.io/badge/Web-jurgo.sk-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:palus.dev@gmail.com"><img src="https://img.shields.io/badge/Email-palus.dev%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to-new%20opportunities-22c55e?style=for-the-badge" alt="Open to new opportunities">
 </p>
 
 ---
 
-## 👨‍💻 About me
-
-I'm a developer who enjoys turning ideas into polished, working products. I like shipping small improvements often, trying new tools, and making things look and feel better.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 What I care about</h3>
+      <h3>🎯 What I do</h3>
       <ul>
-        <li>Clean, intuitive user experiences</li>
-        <li>Polished frontend details</li>
-        <li>Readable, maintainable code</li>
+        <li>Web apps and PWAs</li>
+        <li>AI assistants and RAG</li>
+        <li>Accessibility (WCAG)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 Currently</h3>
+      <h3>🌱 Right now</h3>
       <ul>
-        <li>Learning Next.js &amp; TypeScript</li>
-        <li>Building side projects &amp; experiments</li>
-        <li>Improving my workflow and tooling</li>
+        <li>Growing ProjentIQ, my AI business</li>
+        <li>Building agents with Claude Code</li>
+        <li>Starting studies at VAMK, Finland</li>
       </ul>
     </td>
   </tr>
@@ -45,62 +43,57 @@ I'm a developer who enjoys turning ideas into polished, working products. I like
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📌 Browse my repositories</h3>
-      <p>Projects, experiments and learning notes live on my profile.</p>
-      <a href="https://github.com/Jurgo88?tab=repositories">View all repositories →</a>
+      <h3><a href="https://github.com/Jurgo88/projentiq">ProjentIQ</a></h3>
+      <p>My business: AI document extraction and knowledge base platform for SMEs.</p>
+      <sub>Nuxt 4 · AI</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>⭐ Starred &amp; pinned</h3>
-      <p>Check my pinned repositories for the work I'm most proud of.</p>
-      <a href="https://github.com/Jurgo88">Open profile →</a>
+      <h3><a href="https://github.com/Jurgo88/rag-against-the-machine">RAG Against the Machine</a></h3>
+      <p>Slovak RAG assistant that answers only from your documents and cites sources.</p>
+      <sub>Node.js · pgvector · Supabase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jurgo88/another-hockey-manager">Another Hockey Manager</a></h3>
+      <p>Text-first hockey management game with a statistically validated match engine.</p>
+      <sub>Nuxt · Supabase · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jurgo88/HermanTool">HermanTool</a></h3>
+      <p>Rental management software built for a client.</p>
+      <sub>Node.js · Netlify</sub>
     </td>
   </tr>
 </table>
 
-## 🛠️ Skills & stack
+## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
 </p>
 
 ## 📊 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jurgo88&theme=radical&show_icons=true" alt="Jurgo's GitHub statistics" height="165">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jurgo88&layout=compact&theme=radical" alt="Most-used languages in Jurgo's repositories" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=jurgo88&theme=radical&show_icons=true" alt="GitHub stats" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jurgo88&layout=compact&theme=radical" alt="Top languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jurgo88&theme=radical&hide_border=true" alt="Jurgo's GitHub contribution streak">
-</p>
-
-## 🌱 Recent activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jurgo88&theme=react-dark&hide_border=true&area=true" alt="Jurgo's GitHub contribution activity graph" width="100%">
-</p>
-
-## 🤝 Let's connect
-
-<p align="center">
-  <a href="https://github.com/Jurgo88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <img src="https://streak-stats.demolab.com?user=jurgo88&theme=radical&hide_border=true" alt="Current and longest contribution streak">
 </p>
 
 <p align="center">
-  <i>“Good design is when something feels simple, clear, and a little bit magical.”</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jurgo88&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=100&section=footer" alt="" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jurgo88/Jurgo88/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jurgo88/Jurgo88/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
