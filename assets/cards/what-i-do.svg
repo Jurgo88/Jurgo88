@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 166" width="480" height="166" role="img" aria-label="What I do">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 186" width="500" height="186" role="img" aria-label="What I do">
   <style>
     .bg{fill:#f6f8fa;stroke:#d0d7de} .ttl{fill:#1f2328} .link{fill:#0969da} .txt{fill:#59636e}
     .pill{fill:#e6ebf1} .tag{fill:#3d4650} .dot{fill:#8b5cf6}
@@ -8,9 +8,11 @@
       .pill{fill:#262c36} .tag{fill:#c9d1d9}
     }
   </style>
+  <g transform="translate(10,10)">
   <rect x="0.5" y="0.5" width="479" height="165" rx="12" class="bg"/>
   <text x="24" y="42" class="ttl">What I do</text>
     <circle cx="30" cy="79" r="3" class="dot"/><text x="44" y="84" class="txt">Web apps and PWAs</text>
   <circle cx="30" cy="107" r="3" class="dot"/><text x="44" y="112" class="txt">AI assistants and RAG</text>
   <circle cx="30" cy="135" r="3" class="dot"/><text x="44" y="140" class="txt">Accessibility (WCAG)</text>
+  </g>
 </svg>

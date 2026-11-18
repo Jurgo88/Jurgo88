@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 162" width="500" height="162" role="img" aria-label="Testing and quality: Vitest, Playwright, Accessibility (WCAG)">
+  <style>
+    .bg{fill:#f6f8fa;stroke:#d0d7de} .ttl{fill:#1f2328;font-size:19px;font-weight:600} .note{fill:#59636e;font-size:12px}
+    text{font-family:Segoe UI, -apple-system, Helvetica, Arial, sans-serif}
+    @media (prefers-color-scheme: dark){ .bg{fill:#151b23;stroke:#3d444d} .ttl{fill:#f0f6fc} .note{fill:#9198a1} .dk{stroke:#6e7781;stroke-width:0.8} }
+  </style>
+  <g transform="translate(10,10)">
+  <rect x="0.5" y="0.5" width="479" height="141" rx="12" class="bg"/>
+  <text x="24" y="42" class="ttl">Testing and quality</text>
+    <rect x="24" y="62" width="81" height="26" rx="6" fill="#00FF74" class="chip"/>
+  <path transform="translate(32,68) scale(0.5833)" d="M11.545 23.3a.613.613 0 0 1-.895.197L.252 15.936A.61.61 0 0 1 0 15.439V6.325c0-.502.569-.792.975-.497l6.358 4.624c.594.433 1.432.25 1.793-.39L14.393.7a.62.62 0 0 1 .535-.314h8.455a.613.613 0 0 1 .537.916z" fill="#1f2328"/>
+  <text x="52" y="79" font-size="12.5" font-weight="500" fill="#1f2328">Vitest</text>
+  <rect x="111" y="62" width="109" height="26" rx="6" fill="#2EAD33" class="chip"/>
+  <circle cx="126" cy="75" r="7" fill="#ffffff" fill-opacity="0.9"/><text x="126" y="78.2" text-anchor="middle" font-size="7.5" font-weight="700" fill="#2EAD33">Pw</text>
+  <text x="139" y="79" font-size="12.5" font-weight="500" fill="#ffffff">Playwright</text>
+  <rect x="226" y="62" width="162" height="26" rx="6" fill="#475569" class="chip"/>
+  <text x="238" y="79" font-size="12.5" font-weight="500" fill="#ffffff">Accessibility (WCAG)</text>
+  </g>
+</svg>
