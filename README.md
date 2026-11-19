@@ -69,3 +69,7 @@
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jurgo88/Jurgo88/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jurgo88&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views">
+</p>
